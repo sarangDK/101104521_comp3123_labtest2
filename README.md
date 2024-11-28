@@ -15,3 +15,15 @@ Very simple and dynamic weather application built with React and Axios which is 
 
 * Node.js
 * npm 
+
+
+
+
+### Search Bar 
+![Search Bar Screenshot](./src/assets/search.PNG)
+
+### FIrst result
+![First Result Screenshot](./src/assets/firstResult.PNG)
+
+### More information
+![More Information](./src/assets/secondResult.PNG)
